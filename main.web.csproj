@@ -89,7 +89,54 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\Site.css" />
+    <Content Include="Views\Shared\assets\css\style.css" />
+    <Content Include="Views\Shared\assets\images\about-abs-image.jpg" />
+    <Content Include="Views\Shared\assets\images\about-banner.jpg" />
+    <Content Include="Views\Shared\assets\images\badge-1.png" />
+    <Content Include="Views\Shared\assets\images\badge-2-bg.png" />
+    <Content Include="Views\Shared\assets\images\badge-2.png" />
+    <Content Include="Views\Shared\assets\images\event-1.jpg" />
+    <Content Include="Views\Shared\assets\images\event-2.jpg" />
+    <Content Include="Views\Shared\assets\images\event-3.jpg" />
+    <Content Include="Views\Shared\assets\images\features-icon-1.png" />
+    <Content Include="Views\Shared\assets\images\features-icon-2.png" />
+    <Content Include="Views\Shared\assets\images\features-icon-3.png" />
+    <Content Include="Views\Shared\assets\images\features-icon-4.png" />
+    <Content Include="Views\Shared\assets\images\footer-bg.jpg" />
+    <Content Include="Views\Shared\assets\images\footer-form-bg.png" />
+    <Content Include="Views\Shared\assets\images\footer-form-pattern.svg" />
+    <Content Include="Views\Shared\assets\images\form-pattern.png" />
+    <Content Include="Views\Shared\assets\images\hero-icon.png" />
+    <Content Include="Views\Shared\assets\images\hero-slider-1.jpg" />
+    <Content Include="Views\Shared\assets\images\hero-slider-2.jpg" />
+    <Content Include="Views\Shared\assets\images\hero-slider-3.jpg" />
+    <Content Include="Views\Shared\assets\images\img-pattern.svg" />
+    <Content Include="Views\Shared\assets\images\logo.svg" />
+    <Content Include="Views\Shared\assets\images\menu-1.png" />
+    <Content Include="Views\Shared\assets\images\menu-2.png" />
+    <Content Include="Views\Shared\assets\images\menu-3.png" />
+    <Content Include="Views\Shared\assets\images\menu-4.png" />
+    <Content Include="Views\Shared\assets\images\menu-5.png" />
+    <Content Include="Views\Shared\assets\images\menu-6.png" />
+    <Content Include="Views\Shared\assets\images\separator.svg" />
+    <Content Include="Views\Shared\assets\images\service-1.jpg" />
+    <Content Include="Views\Shared\assets\images\service-2.jpg" />
+    <Content Include="Views\Shared\assets\images\service-3.jpg" />
+    <Content Include="Views\Shared\assets\images\shape-1.png" />
+    <Content Include="Views\Shared\assets\images\shape-2.png" />
+    <Content Include="Views\Shared\assets\images\shape-3.png" />
+    <Content Include="Views\Shared\assets\images\shape-4.png" />
+    <Content Include="Views\Shared\assets\images\shape-5.png" />
+    <Content Include="Views\Shared\assets\images\shape-6.png" />
+    <Content Include="Views\Shared\assets\images\shape-7.png" />
+    <Content Include="Views\Shared\assets\images\shape-8.png" />
+    <Content Include="Views\Shared\assets\images\shape-9.png" />
+    <Content Include="Views\Shared\assets\images\special-dish-banner.jpg" />
+    <Content Include="Views\Shared\assets\images\testi-avatar.jpg" />
+    <Content Include="Views\Shared\assets\images\testimonial-bg.jpg" />
+    <Content Include="Views\Shared\assets\js\script.js" />
     <Content Include="Global.asax" />
+    <Content Include="Views\Shared\assets\readme-images\desktop.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -103,11 +150,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="Views\Shared\assets\images\Thumbs.db" />
     <None Include="packages.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\index.cshtml" />
-    <Content Include="Views\co\index.cshtml" />
+    <Content Include="Views\Shared\assets\readme-images\Thumbs.db" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
