@@ -16,6 +16,7 @@ namespace main.web
             // Код, выполняемый при запуске приложения
            AreaRegistration.RegisterAllAreas();
            RouteConfig.RegisterRoutes(RouteTable.Routes);
+
         }
     }
 }
